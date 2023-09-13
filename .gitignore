@@ -1,0 +1,8 @@
+# Ignore .env folders
+**/.env/
+
+# Ignore node_modules folders
+**/node_modules/
+
+# Ignore package-locks
+**/package-lock.json
